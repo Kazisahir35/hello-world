@@ -1,0 +1,6 @@
+Name: Kazi Sahir
+Email: Kazi.Sahir76@myhunter.cuny.edu
+Date: September 11, 2023
+This program will print the phrase: Hello, World!
+
+print("Hello, World!")
